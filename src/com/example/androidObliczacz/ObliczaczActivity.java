@@ -41,7 +41,7 @@ public class ObliczaczActivity extends Activity implements OnClickListener {
     	inputValue = (EditText) findViewById(R.id.points);
     	Integer value = Integer.parseInt(inputValue.getText().toString());
     	
-    	// add labels
+    	// add labels - first th row
     	TableRow th = new TableRow(this);
     	th.setBackgroundColor(Color.rgb(90, 146, 206));
     	TextView thKeys = new TextView(this);
