@@ -1,0 +1,4 @@
+Obliczacz
+=========
+
+Obliczacz - percentage counter
